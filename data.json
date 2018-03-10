@@ -1,0 +1,2409 @@
+{
+  "in_reply_to_status_id_str": null,
+  "possibly_sensitive": false,
+  "id": 972518657883561985,
+  "geo": null,
+  "lang": "en",
+  "favorite_count": 0,
+  "is_quote_status": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted_status": {
+    "in_reply_to_status_id_str": null,
+    "possibly_sensitive": false,
+    "id": 972518277082701824,
+    "geo": null,
+    "lang": "en",
+    "favorite_count": 1,
+    "is_quote_status": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "created_at": "Sat Mar 10 17:03:20 +0000 2018",
+    "id_str": "972518277082701824",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "text": "Today, catch me on an ALL NEW #GillmorGang @facebooklive https://t.co/Z3HkxsaKL9 with gangsters, @stevegillmor\u2026 https://t.co/17spRJak18",
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "retweeted": false,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "Ustream.tv/GillmorGang",
+          "url": "https://t.co/Z3HkxsaKL9",
+          "indices": [
+            57,
+            80
+          ],
+          "expanded_url": "http://Ustream.tv/GillmorGang"
+        },
+        {
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "url": "https://t.co/17spRJak18",
+          "indices": [
+            112,
+            135
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/972518277082701824"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 176982668,
+          "indices": [
+            43,
+            56
+          ],
+          "screen_name": "facebooklive",
+          "id_str": "176982668",
+          "name": "Facebook Live"
+        },
+        {
+          "id": 1454021,
+          "indices": [
+            97,
+            110
+          ],
+          "screen_name": "stevegillmor",
+          "id_str": "1454021",
+          "name": "Steve Gillmor"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            30,
+            42
+          ],
+          "text": "GillmorGang"
+        }
+      ],
+      "symbols": []
+    },
+    "user": {
+      "profile_sidebar_fill_color": "FFF8DF",
+      "profile_background_tile": true,
+      "default_profile_image": false,
+      "translator_type": "none",
+      "description": "Emmy winning journalist. Producer, director, composer. Aggregating content about the dynamic media landscape. Writing and speaking about the \u201cNext New Normal\u201d",
+      "is_translator": false,
+      "utc_offset": -18000,
+      "statuses_count": 14540,
+      "id": 15030133,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/498821769/bkgd.jpg",
+      "profile_sidebar_border_color": "FFFFFF",
+      "follow_request_sent": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/946853103428567040/jTwp-Um6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15030133/1478528672",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "display_url": "frankradice.com",
+              "url": "https://t.co/4DGxD12J8z",
+              "indices": [
+                0,
+                23
+              ],
+              "expanded_url": "http://frankradice.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "time_zone": "Quito",
+      "lang": "en",
+      "default_profile": false,
+      "created_at": "Fri Jun 06 15:02:24 +0000 2008",
+      "name": "Frank J. Radice",
+      "geo_enabled": true,
+      "profile_link_color": "1B95E0",
+      "location": "London, England",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/946853103428567040/jTwp-Um6_normal.jpg",
+      "protected": false,
+      "has_extended_profile": false,
+      "followers_count": 2910,
+      "is_translation_enabled": false,
+      "url": "https://t.co/4DGxD12J8z",
+      "notifications": false,
+      "listed_count": 174,
+      "profile_use_background_image": true,
+      "following": false,
+      "verified": true,
+      "contributors_enabled": false,
+      "screen_name": "Fradice",
+      "id_str": "15030133",
+      "friends_count": 3152,
+      "profile_background_color": "000000",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/498821769/bkgd.jpg",
+      "favourites_count": 1723,
+      "profile_text_color": "000000"
+    },
+    "truncated": true,
+    "favorited": false,
+    "retweet_count": 2,
+    "possibly_sensitive_appealable": false
+  },
+  "place": null,
+  "created_at": "Sat Mar 10 17:04:51 +0000 2018",
+  "id_str": "972518657883561985",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "text": "RT @Fradice: Today, catch me on an ALL NEW #GillmorGang @facebooklive https://t.co/Z3HkxsaKL9 with gangsters, @stevegillmor  @kteare @kevin\u2026",
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "favorited": false,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "user": {
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_background_tile": false,
+    "default_profile_image": false,
+    "translator_type": "none",
+    "description": "\ud83d\udcd6Reading your thoughts. \u270d\ufe0fIf you write them first. \ud83d\udd78https://t.co/LD3HeubE2z Want to hire me to consult, write or speak? \ud83d\udce9dm me",
+    "is_translator": false,
+    "utc_offset": -28800,
+    "statuses_count": 110902,
+    "id": 57203,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_border_color": "5ED4DC",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826300294136868864/bB22s4pc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/57203/1358547253",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "display_url": "kevinmarks.com",
+            "url": "https://t.co/KzRfFUERTT",
+            "indices": [
+              0,
+              23
+            ],
+            "expanded_url": "http://www.kevinmarks.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "display_url": "known.kevinmarks.com",
+            "url": "https://t.co/LD3HeubE2z",
+            "indices": [
+              52,
+              75
+            ],
+            "expanded_url": "http://known.kevinmarks.com"
+          }
+        ]
+      }
+    },
+    "time_zone": "Pacific Time (US & Canada)",
+    "lang": "en",
+    "default_profile": false,
+    "created_at": "Mon Dec 11 11:43:36 +0000 2006",
+    "name": "Kevin Marks",
+    "geo_enabled": true,
+    "profile_link_color": "007494",
+    "location": "Nunthorpe, England",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/826300294136868864/bB22s4pc_normal.jpg",
+    "protected": false,
+    "has_extended_profile": true,
+    "followers_count": 27048,
+    "is_translation_enabled": false,
+    "url": "https://t.co/KzRfFUERTT",
+    "notifications": false,
+    "listed_count": 2069,
+    "profile_use_background_image": false,
+    "following": true,
+    "verified": false,
+    "contributors_enabled": false,
+    "screen_name": "kevinmarks",
+    "id_str": "57203",
+    "friends_count": 9669,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "favourites_count": 3618,
+    "profile_text_color": "3C3940"
+  },
+  "truncated": false,
+  "entities": {
+    "urls": [
+      {
+        "display_url": "Ustream.tv/GillmorGang",
+        "url": "https://t.co/Z3HkxsaKL9",
+        "indices": [
+          70,
+          93
+        ],
+        "expanded_url": "http://Ustream.tv/GillmorGang"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 15030133,
+        "indices": [
+          3,
+          11
+        ],
+        "screen_name": "Fradice",
+        "id_str": "15030133",
+        "name": "Frank J. Radice"
+      },
+      {
+        "id": 176982668,
+        "indices": [
+          56,
+          69
+        ],
+        "screen_name": "facebooklive",
+        "id_str": "176982668",
+        "name": "Facebook Live"
+      },
+      {
+        "id": 1454021,
+        "indices": [
+          110,
+          123
+        ],
+        "screen_name": "stevegillmor",
+        "id_str": "1454021",
+        "name": "Steve Gillmor"
+      },
+      {
+        "id": 5759352,
+        "indices": [
+          125,
+          132
+        ],
+        "screen_name": "kteare",
+        "id_str": "5759352",
+        "name": "Keith Teare"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          43,
+          55
+        ],
+        "text": "GillmorGang"
+      }
+    ],
+    "symbols": []
+  },
+  "retweet_count": 2,
+  "possibly_sensitive_appealable": false
+}{
+  "in_reply_to_status_id_str": null,
+  "id": 972493963159580672,
+  "geo": null,
+  "lang": "en",
+  "favorite_count": 0,
+  "is_quote_status": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted_status": {
+    "in_reply_to_status_id_str": null,
+    "possibly_sensitive": false,
+    "id": 972465261143056384,
+    "geo": null,
+    "lang": "en",
+    "favorite_count": 5,
+    "is_quote_status": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+    "place": null,
+    "created_at": "Sat Mar 10 13:32:40 +0000 2018",
+    "id_str": "972465261143056384",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "text": "For the past six months I've been working on a project called TRUE with @ODILeeds - here's what we did. (very long). https://t.co/XdzVk4fqy0",
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "retweeted": false,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "odileeds.org/blog/2018-03-1\u2026",
+          "url": "https://t.co/XdzVk4fqy0",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "http://odileeds.org/blog/2018-03-10-The-TRUE-tool.html"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 2160485952,
+          "indices": [
+            72,
+            81
+          ],
+          "screen_name": "ODILeeds",
+          "id_str": "2160485952",
+          "name": "ODI Leeds"
+        }
+      ],
+      "hashtags": [],
+      "symbols": []
+    },
+    "user": {
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_background_tile": false,
+      "default_profile_image": false,
+      "translator_type": "none",
+      "description": "Runs @imactivate || Head of Data at @TheDataCity || Often at @ODILeeds || I mute most people without three of a real photo, bio, location, and name.",
+      "is_translator": false,
+      "utc_offset": 0,
+      "statuses_count": 107286,
+      "id": 123933889,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000019438809/5bcdf4e1403af11f58330f2f87154e76.jpeg",
+      "profile_sidebar_border_color": "FFFFFF",
+      "follow_request_sent": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/873496108420476929/vzppXRQe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/123933889/1399242458",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "display_url": "tomforth.co.uk",
+              "url": "https://t.co/7QoYCGQm4j",
+              "indices": [
+                0,
+                23
+              ],
+              "expanded_url": "http://www.tomforth.co.uk/"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "time_zone": "London",
+      "lang": "en",
+      "default_profile": false,
+      "created_at": "Wed Mar 17 17:50:50 +0000 2010",
+      "name": "Tom Forth",
+      "geo_enabled": true,
+      "profile_link_color": "F27D00",
+      "location": "Birmingham mostly, Leeds often",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/873496108420476929/vzppXRQe_normal.jpg",
+      "protected": false,
+      "has_extended_profile": false,
+      "followers_count": 5702,
+      "is_translation_enabled": false,
+      "url": "https://t.co/7QoYCGQm4j",
+      "notifications": false,
+      "listed_count": 360,
+      "profile_use_background_image": true,
+      "following": false,
+      "verified": false,
+      "contributors_enabled": false,
+      "screen_name": "thomasforth",
+      "id_str": "123933889",
+      "friends_count": 995,
+      "profile_background_color": "4E6ABD",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000019438809/5bcdf4e1403af11f58330f2f87154e76.jpeg",
+      "favourites_count": 6154,
+      "profile_text_color": "333333"
+    },
+    "truncated": false,
+    "favorited": false,
+    "retweet_count": 2,
+    "possibly_sensitive_appealable": false
+  },
+  "place": null,
+  "created_at": "Sat Mar 10 15:26:43 +0000 2018",
+  "id_str": "972493963159580672",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "text": "RT @thomasforth: For the past six months I've been working on a project called TRUE with @ODILeeds - here's what we did. (very long). https\u2026",
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "favorited": false,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "user": {
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_background_tile": false,
+    "default_profile_image": false,
+    "translator_type": "none",
+    "description": "\ud83d\udcd6Reading your thoughts. \u270d\ufe0fIf you write them first. \ud83d\udd78https://t.co/LD3HeubE2z Want to hire me to consult, write or speak? \ud83d\udce9dm me",
+    "is_translator": false,
+    "utc_offset": -28800,
+    "statuses_count": 110902,
+    "id": 57203,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_border_color": "5ED4DC",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826300294136868864/bB22s4pc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/57203/1358547253",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "display_url": "kevinmarks.com",
+            "url": "https://t.co/KzRfFUERTT",
+            "indices": [
+              0,
+              23
+            ],
+            "expanded_url": "http://www.kevinmarks.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "display_url": "known.kevinmarks.com",
+            "url": "https://t.co/LD3HeubE2z",
+            "indices": [
+              52,
+              75
+            ],
+            "expanded_url": "http://known.kevinmarks.com"
+          }
+        ]
+      }
+    },
+    "time_zone": "Pacific Time (US & Canada)",
+    "lang": "en",
+    "default_profile": false,
+    "created_at": "Mon Dec 11 11:43:36 +0000 2006",
+    "name": "Kevin Marks",
+    "geo_enabled": true,
+    "profile_link_color": "007494",
+    "location": "Nunthorpe, England",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/826300294136868864/bB22s4pc_normal.jpg",
+    "protected": false,
+    "has_extended_profile": true,
+    "followers_count": 27048,
+    "is_translation_enabled": false,
+    "url": "https://t.co/KzRfFUERTT",
+    "notifications": false,
+    "listed_count": 2069,
+    "profile_use_background_image": false,
+    "following": true,
+    "verified": false,
+    "contributors_enabled": false,
+    "screen_name": "kevinmarks",
+    "id_str": "57203",
+    "friends_count": 9669,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "favourites_count": 3618,
+    "profile_text_color": "3C3940"
+  },
+  "truncated": false,
+  "entities": {
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 123933889,
+        "indices": [
+          3,
+          15
+        ],
+        "screen_name": "thomasforth",
+        "id_str": "123933889",
+        "name": "Tom Forth"
+      },
+      {
+        "id": 2160485952,
+        "indices": [
+          89,
+          98
+        ],
+        "screen_name": "ODILeeds",
+        "id_str": "2160485952",
+        "name": "ODI Leeds"
+      }
+    ],
+    "hashtags": [],
+    "symbols": []
+  },
+  "retweet_count": 2
+}{
+  "in_reply_to_status_id_str": null,
+  "id": 972486303563505664,
+  "geo": null,
+  "lang": "en",
+  "favorite_count": 2,
+  "is_quote_status": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": null,
+  "created_at": "Sat Mar 10 14:56:17 +0000 2018",
+  "id_str": "972486303563505664",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "text": "Why I always wear eye protection when doing serious things: I was putting toothpaste on my toothbrush and a little\u2026 https://t.co/cjoHKQChEs",
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "entities": {
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/cjoHKQChEs",
+        "indices": [
+          116,
+          139
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/972486303563505664"
+      }
+    ],
+    "user_mentions": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "user": {
+    "profile_sidebar_fill_color": "252429",
+    "profile_background_tile": false,
+    "default_profile_image": false,
+    "translator_type": "none",
+    "description": "Googler, Open Source Dude, Dad",
+    "is_translator": false,
+    "utc_offset": -28800,
+    "statuses_count": 11552,
+    "id": 44423,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_sidebar_border_color": "181A1E",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44423/1365443403",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "display_url": "dibona.com",
+            "url": "http://t.co/Qve3ArdKN0",
+            "indices": [
+              0,
+              22
+            ],
+            "expanded_url": "http://dibona.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "time_zone": "Pacific Time (US & Canada)",
+    "lang": "en",
+    "default_profile": false,
+    "created_at": "Wed Dec 06 04:18:07 +0000 2006",
+    "name": "Chris DiBona",
+    "geo_enabled": true,
+    "profile_link_color": "2FC2EF",
+    "location": "Los Altos, Ca",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "protected": false,
+    "has_extended_profile": true,
+    "followers_count": 38365,
+    "is_translation_enabled": false,
+    "url": "http://t.co/Qve3ArdKN0",
+    "notifications": false,
+    "listed_count": 1763,
+    "profile_use_background_image": true,
+    "following": true,
+    "verified": false,
+    "contributors_enabled": false,
+    "screen_name": "cdibona",
+    "id_str": "44423",
+    "friends_count": 1344,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "favourites_count": 5818,
+    "profile_text_color": "666666"
+  },
+  "truncated": true,
+  "favorited": false,
+  "retweet_count": 0
+}{
+  "in_reply_to_status_id_str": null,
+  "quoted_status_id": 972472531960717312,
+  "possibly_sensitive": false,
+  "favorite_count": 6,
+  "id": 972479487504826368,
+  "geo": null,
+  "quoted_status_id_str": "972472531960717312",
+  "quoted_status": {
+    "in_reply_to_status_id_str": null,
+    "possibly_sensitive": false,
+    "id": 972472531960717312,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "type": "photo",
+          "expanded_url": "https://twitter.com/verge/status/972472531960717312/photo/1",
+          "media_url": "http://pbs.twimg.com/media/DX7qnPqU0AcL9_E.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DX7qnPqU0AcL9_E.jpg",
+          "display_url": "pic.twitter.com/xjwdAremBB",
+          "url": "https://t.co/xjwdAremBB",
+          "id": 972472529498460167,
+          "indices": [
+            83,
+            106
+          ],
+          "id_str": "972472529498460167",
+          "sizes": {
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 800
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 453
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 800
+            }
+          }
+        }
+      ]
+    },
+    "favorite_count": 343,
+    "lang": "en",
+    "is_quote_status": false,
+    "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "place": null,
+    "created_at": "Sat Mar 10 14:01:33 +0000 2018",
+    "id_str": "972472531960717312",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "text": "Study finds that people are more loyal to Android than iOS https://t.co/Et1aGuuN7G https://t.co/xjwdAremBB",
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "favorited": false,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "retweeted": false,
+    "user": {
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_background_tile": false,
+      "default_profile_image": false,
+      "translator_type": "regular",
+      "description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+      "is_translator": false,
+      "utc_offset": -18000,
+      "statuses_count": 135808,
+      "id": 275686563,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+      "profile_sidebar_border_color": "000000",
+      "follow_request_sent": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1515605311",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "display_url": "theverge.com",
+              "url": "http://t.co/W2SFxIXkC4",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.theverge.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "display_url": "theverge.com",
+              "url": "https://t.co/W2SFxIXkC4",
+              "indices": [
+                0,
+                23
+              ],
+              "expanded_url": "http://www.theverge.com"
+            }
+          ]
+        }
+      },
+      "time_zone": "Eastern Time (US & Canada)",
+      "lang": "en",
+      "default_profile": false,
+      "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+      "name": "The Verge",
+      "geo_enabled": true,
+      "profile_link_color": "EC008C",
+      "location": "New York",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+      "protected": false,
+      "has_extended_profile": false,
+      "followers_count": 2427688,
+      "is_translation_enabled": true,
+      "url": "http://t.co/W2SFxIXkC4",
+      "notifications": false,
+      "listed_count": 34632,
+      "profile_use_background_image": true,
+      "following": false,
+      "verified": true,
+      "contributors_enabled": false,
+      "screen_name": "verge",
+      "id_str": "275686563",
+      "friends_count": 140,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+      "favourites_count": 1784,
+      "profile_text_color": "333333"
+    },
+    "truncated": false,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "theverge.com/2018/3/8/17097\u2026",
+          "url": "https://t.co/Et1aGuuN7G",
+          "indices": [
+            59,
+            82
+          ],
+          "expanded_url": "https://www.theverge.com/2018/3/8/17097904/android-ios-smartphone-brand-loyalty?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter"
+        }
+      ],
+      "user_mentions": [],
+      "media": [
+        {
+          "type": "photo",
+          "expanded_url": "https://twitter.com/verge/status/972472531960717312/photo/1",
+          "media_url": "http://pbs.twimg.com/media/DX7qnPqU0AcL9_E.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DX7qnPqU0AcL9_E.jpg",
+          "display_url": "pic.twitter.com/xjwdAremBB",
+          "url": "https://t.co/xjwdAremBB",
+          "id": 972472529498460167,
+          "indices": [
+            83,
+            106
+          ],
+          "id_str": "972472529498460167",
+          "sizes": {
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 800
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 453
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 800
+            }
+          }
+        }
+      ],
+      "hashtags": [],
+      "symbols": []
+    },
+    "retweet_count": 106,
+    "possibly_sensitive_appealable": false
+  },
+  "entities": {
+    "urls": [
+      {
+        "display_url": "twitter.com/verge/status/9\u2026",
+        "url": "https://t.co/s0qHZsS43h",
+        "indices": [
+          38,
+          61
+        ],
+        "expanded_url": "https://twitter.com/verge/status/972472531960717312"
+      }
+    ],
+    "user_mentions": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "lang": "en",
+  "is_quote_status": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": null,
+  "created_at": "Sat Mar 10 14:29:12 +0000 2018",
+  "id_str": "972479487504826368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "text": "Hard to live without the back button. https://t.co/s0qHZsS43h",
+  "in_reply_to_user_id": null,
+  "favorited": false,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "user": {
+    "profile_sidebar_fill_color": "252429",
+    "profile_background_tile": false,
+    "default_profile_image": false,
+    "translator_type": "none",
+    "description": "Googler, Open Source Dude, Dad",
+    "is_translator": false,
+    "utc_offset": -28800,
+    "statuses_count": 11552,
+    "id": 44423,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_sidebar_border_color": "181A1E",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44423/1365443403",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "display_url": "dibona.com",
+            "url": "http://t.co/Qve3ArdKN0",
+            "indices": [
+              0,
+              22
+            ],
+            "expanded_url": "http://dibona.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "time_zone": "Pacific Time (US & Canada)",
+    "lang": "en",
+    "default_profile": false,
+    "created_at": "Wed Dec 06 04:18:07 +0000 2006",
+    "name": "Chris DiBona",
+    "geo_enabled": true,
+    "profile_link_color": "2FC2EF",
+    "location": "Los Altos, Ca",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "protected": false,
+    "has_extended_profile": true,
+    "followers_count": 38365,
+    "is_translation_enabled": false,
+    "url": "http://t.co/Qve3ArdKN0",
+    "notifications": false,
+    "listed_count": 1763,
+    "profile_use_background_image": true,
+    "following": true,
+    "verified": false,
+    "contributors_enabled": false,
+    "screen_name": "cdibona",
+    "id_str": "44423",
+    "friends_count": 1344,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "favourites_count": 5818,
+    "profile_text_color": "666666"
+  },
+  "truncated": false,
+  "coordinates": null,
+  "retweet_count": 1,
+  "possibly_sensitive_appealable": false
+}{
+  "in_reply_to_status_id_str": null,
+  "possibly_sensitive": false,
+  "id": 972479250774212609,
+  "geo": null,
+  "lang": "en",
+  "favorite_count": 1,
+  "is_quote_status": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": null,
+  "created_at": "Sat Mar 10 14:28:15 +0000 2018",
+  "id_str": "972479250774212609",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "text": "Just a reminder that this hasn't happened yet and probably needs to: https://t.co/snzQNDMBU1",
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "entities": {
+    "urls": [
+      {
+        "display_url": "youtube.com/watch?v=3_C_Pe\u2026",
+        "url": "https://t.co/snzQNDMBU1",
+        "indices": [
+          69,
+          92
+        ],
+        "expanded_url": "https://www.youtube.com/watch?v=3_C_PefoE4o"
+      }
+    ],
+    "user_mentions": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "user": {
+    "profile_sidebar_fill_color": "252429",
+    "profile_background_tile": false,
+    "default_profile_image": false,
+    "translator_type": "none",
+    "description": "Googler, Open Source Dude, Dad",
+    "is_translator": false,
+    "utc_offset": -28800,
+    "statuses_count": 11552,
+    "id": 44423,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_sidebar_border_color": "181A1E",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44423/1365443403",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "display_url": "dibona.com",
+            "url": "http://t.co/Qve3ArdKN0",
+            "indices": [
+              0,
+              22
+            ],
+            "expanded_url": "http://dibona.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "time_zone": "Pacific Time (US & Canada)",
+    "lang": "en",
+    "default_profile": false,
+    "created_at": "Wed Dec 06 04:18:07 +0000 2006",
+    "name": "Chris DiBona",
+    "geo_enabled": true,
+    "profile_link_color": "2FC2EF",
+    "location": "Los Altos, Ca",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "protected": false,
+    "has_extended_profile": true,
+    "followers_count": 38365,
+    "is_translation_enabled": false,
+    "url": "http://t.co/Qve3ArdKN0",
+    "notifications": false,
+    "listed_count": 1763,
+    "profile_use_background_image": true,
+    "following": true,
+    "verified": false,
+    "contributors_enabled": false,
+    "screen_name": "cdibona",
+    "id_str": "44423",
+    "friends_count": 1344,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "favourites_count": 5818,
+    "profile_text_color": "666666"
+  },
+  "truncated": false,
+  "favorited": false,
+  "retweet_count": 0,
+  "possibly_sensitive_appealable": false
+}{
+  "in_reply_to_status_id_str": null,
+  "quoted_status_id": 972477437161410560,
+  "possibly_sensitive": false,
+  "favorite_count": 1,
+  "id": 972479133530771457,
+  "geo": null,
+  "quoted_status_id_str": "972477437161410560",
+  "quoted_status": {
+    "in_reply_to_status_id_str": null,
+    "possibly_sensitive": false,
+    "id": 972477437161410560,
+    "geo": null,
+    "lang": "en",
+    "favorite_count": 153,
+    "is_quote_status": false,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "place": null,
+    "created_at": "Sat Mar 10 14:21:03 +0000 2018",
+    "id_str": "972477437161410560",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "text": "The dispute over the Trump hotel in Panama City took another turn https://t.co/8xLbGXFkrZ",
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "retweeted": false,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "nyti.ms/2Dfo5dI",
+          "url": "https://t.co/8xLbGXFkrZ",
+          "indices": [
+            66,
+            89
+          ],
+          "expanded_url": "http://nyti.ms/2Dfo5dI"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": [],
+      "symbols": []
+    },
+    "user": {
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_background_tile": true,
+      "default_profile_image": false,
+      "translator_type": "none",
+      "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/UVJRxNXe00 to share news tips.",
+      "is_translator": false,
+      "utc_offset": -18000,
+      "statuses_count": 312429,
+      "id": 807095,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+      "profile_sidebar_border_color": "FFFFFF",
+      "follow_request_sent": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1513258368",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "display_url": "nytimes.com",
+              "url": "http://t.co/ahvuWqicF9",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.nytimes.com/"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "display_url": "nyti.ms/2io2WFI",
+              "url": "https://t.co/UVJRxNXe00",
+              "indices": [
+                113,
+                136
+              ],
+              "expanded_url": "http://nyti.ms/2io2WFI"
+            }
+          ]
+        }
+      },
+      "time_zone": "Eastern Time (US & Canada)",
+      "lang": "en",
+      "default_profile": false,
+      "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+      "name": "The New York Times",
+      "geo_enabled": false,
+      "profile_link_color": "607696",
+      "location": "New York City",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg",
+      "protected": false,
+      "has_extended_profile": false,
+      "followers_count": 41347740,
+      "is_translation_enabled": true,
+      "url": "http://t.co/ahvuWqicF9",
+      "notifications": false,
+      "listed_count": 194541,
+      "profile_use_background_image": true,
+      "following": false,
+      "verified": true,
+      "contributors_enabled": false,
+      "screen_name": "nytimes",
+      "id_str": "807095",
+      "friends_count": 880,
+      "profile_background_color": "131516",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+      "favourites_count": 16423,
+      "profile_text_color": "333333"
+    },
+    "truncated": false,
+    "favorited": false,
+    "retweet_count": 79,
+    "possibly_sensitive_appealable": false
+  },
+  "entities": {
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/5jvHj6pv42",
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/972479133530771457"
+      }
+    ],
+    "user_mentions": [],
+    "hashtags": [],
+    "symbols": []
+  },
+  "lang": "en",
+  "is_quote_status": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": null,
+  "created_at": "Sat Mar 10 14:27:47 +0000 2018",
+  "id_str": "972479133530771457",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "text": "What cleaning products do you need to clean Trump off marble? Acid? Zmapp? Acyclovir? A damp cloth , time, and a ja\u2026 https://t.co/5jvHj6pv42",
+  "in_reply_to_user_id": null,
+  "favorited": false,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "user": {
+    "profile_sidebar_fill_color": "252429",
+    "profile_background_tile": false,
+    "default_profile_image": false,
+    "translator_type": "none",
+    "description": "Googler, Open Source Dude, Dad",
+    "is_translator": false,
+    "utc_offset": -28800,
+    "statuses_count": 11552,
+    "id": 44423,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_sidebar_border_color": "181A1E",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44423/1365443403",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "display_url": "dibona.com",
+            "url": "http://t.co/Qve3ArdKN0",
+            "indices": [
+              0,
+              22
+            ],
+            "expanded_url": "http://dibona.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "time_zone": "Pacific Time (US & Canada)",
+    "lang": "en",
+    "default_profile": false,
+    "created_at": "Wed Dec 06 04:18:07 +0000 2006",
+    "name": "Chris DiBona",
+    "geo_enabled": true,
+    "profile_link_color": "2FC2EF",
+    "location": "Los Altos, Ca",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "protected": false,
+    "has_extended_profile": true,
+    "followers_count": 38365,
+    "is_translation_enabled": false,
+    "url": "http://t.co/Qve3ArdKN0",
+    "notifications": false,
+    "listed_count": 1763,
+    "profile_use_background_image": true,
+    "following": true,
+    "verified": false,
+    "contributors_enabled": false,
+    "screen_name": "cdibona",
+    "id_str": "44423",
+    "friends_count": 1344,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "favourites_count": 5818,
+    "profile_text_color": "666666"
+  },
+  "truncated": true,
+  "coordinates": null,
+  "retweet_count": 0,
+  "possibly_sensitive_appealable": false
+}{
+  "in_reply_to_status_id_str": null,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "id": 972458862275002370,
+  "geo": null,
+  "extended_entities": {
+    "media": [
+      {
+        "source_user_id_str": "8935052",
+        "source_status_id": 971724826527322113,
+        "expanded_url": "https://twitter.com/Aelkus/status/971724826527322113/photo/1",
+        "media_url": "http://pbs.twimg.com/media/DXxCkyyUMAAstq5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DXxCkyyUMAAstq5.jpg",
+        "type": "photo",
+        "url": "https://t.co/MX8bGDQnLg",
+        "id": 971724819480719360,
+        "sizes": {
+          "medium": {
+            "resize": "fit",
+            "w": 960,
+            "h": 724
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          },
+          "large": {
+            "resize": "fit",
+            "w": 960,
+            "h": 724
+          },
+          "small": {
+            "resize": "fit",
+            "w": 680,
+            "h": 513
+          }
+        },
+        "source_user_id": 8935052,
+        "display_url": "pic.twitter.com/MX8bGDQnLg",
+        "source_status_id_str": "971724826527322113",
+        "indices": [
+          12,
+          35
+        ],
+        "id_str": "971724819480719360"
+      }
+    ]
+  },
+  "entities": {
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 8935052,
+        "indices": [
+          3,
+          10
+        ],
+        "screen_name": "Aelkus",
+        "id_str": "8935052",
+        "name": "'((Adam (Elkus)))"
+      }
+    ],
+    "media": [
+      {
+        "source_user_id_str": "8935052",
+        "source_status_id": 971724826527322113,
+        "expanded_url": "https://twitter.com/Aelkus/status/971724826527322113/photo/1",
+        "media_url": "http://pbs.twimg.com/media/DXxCkyyUMAAstq5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DXxCkyyUMAAstq5.jpg",
+        "type": "photo",
+        "url": "https://t.co/MX8bGDQnLg",
+        "id": 971724819480719360,
+        "sizes": {
+          "medium": {
+            "resize": "fit",
+            "w": 960,
+            "h": 724
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          },
+          "large": {
+            "resize": "fit",
+            "w": 960,
+            "h": 724
+          },
+          "small": {
+            "resize": "fit",
+            "w": 680,
+            "h": 513
+          }
+        },
+        "source_user_id": 8935052,
+        "display_url": "pic.twitter.com/MX8bGDQnLg",
+        "source_status_id_str": "971724826527322113",
+        "indices": [
+          12,
+          35
+        ],
+        "id_str": "971724819480719360"
+      }
+    ],
+    "hashtags": [],
+    "symbols": []
+  },
+  "lang": "und",
+  "is_quote_status": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted_status": {
+    "in_reply_to_status_id_str": null,
+    "possibly_sensitive": false,
+    "id": 971724826527322113,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "type": "photo",
+          "expanded_url": "https://twitter.com/Aelkus/status/971724826527322113/photo/1",
+          "media_url": "http://pbs.twimg.com/media/DXxCkyyUMAAstq5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DXxCkyyUMAAstq5.jpg",
+          "display_url": "pic.twitter.com/MX8bGDQnLg",
+          "url": "https://t.co/MX8bGDQnLg",
+          "id": 971724819480719360,
+          "indices": [
+            0,
+            23
+          ],
+          "id_str": "971724819480719360",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 960,
+              "h": 724
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 960,
+              "h": 724
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 513
+            }
+          }
+        }
+      ]
+    },
+    "favorite_count": 1245,
+    "lang": "und",
+    "is_quote_status": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "created_at": "Thu Mar 08 12:30:27 +0000 2018",
+    "id_str": "971724826527322113",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "text": "https://t.co/MX8bGDQnLg",
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "favorited": false,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "retweeted": false,
+    "user": {
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_background_tile": false,
+      "default_profile_image": false,
+      "translator_type": "none",
+      "description": "PhD student, @CSS_GMU. Work on strategy, simulation, agents. All tweets my own.",
+      "is_translator": false,
+      "utc_offset": -18000,
+      "statuses_count": 163960,
+      "id": 8935052,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_sidebar_border_color": "87BC44",
+      "follow_request_sent": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/871485100525051905/IVKFVkKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/8935052/1460092668",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "display_url": "aelkus.github.io",
+              "url": "https://t.co/1JfV62G4Il",
+              "indices": [
+                0,
+                23
+              ],
+              "expanded_url": "http://aelkus.github.io"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "time_zone": "Eastern Time (US & Canada)",
+      "lang": "en",
+      "default_profile": false,
+      "created_at": "Mon Sep 17 18:00:02 +0000 2007",
+      "name": "'((Adam (Elkus)))",
+      "geo_enabled": false,
+      "profile_link_color": "0000FF",
+      "location": "Washington, D.C.",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/871485100525051905/IVKFVkKk_normal.jpg",
+      "protected": false,
+      "has_extended_profile": false,
+      "followers_count": 11417,
+      "is_translation_enabled": false,
+      "url": "https://t.co/1JfV62G4Il",
+      "notifications": false,
+      "listed_count": 958,
+      "profile_use_background_image": true,
+      "following": false,
+      "verified": false,
+      "contributors_enabled": false,
+      "screen_name": "Aelkus",
+      "id_str": "8935052",
+      "friends_count": 6007,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "favourites_count": 24823,
+      "profile_text_color": "000000"
+    },
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "type": "photo",
+          "expanded_url": "https://twitter.com/Aelkus/status/971724826527322113/photo/1",
+          "media_url": "http://pbs.twimg.com/media/DXxCkyyUMAAstq5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DXxCkyyUMAAstq5.jpg",
+          "display_url": "pic.twitter.com/MX8bGDQnLg",
+          "url": "https://t.co/MX8bGDQnLg",
+          "id": 971724819480719360,
+          "indices": [
+            0,
+            23
+          ],
+          "id_str": "971724819480719360",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 960,
+              "h": 724
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 960,
+              "h": 724
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 513
+            }
+          }
+        }
+      ],
+      "hashtags": [],
+      "symbols": []
+    },
+    "retweet_count": 515,
+    "possibly_sensitive_appealable": false
+  },
+  "place": null,
+  "created_at": "Sat Mar 10 13:07:14 +0000 2018",
+  "id_str": "972458862275002370",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "text": "RT @Aelkus: https://t.co/MX8bGDQnLg",
+  "in_reply_to_user_id": null,
+  "favorited": false,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "user": {
+    "profile_sidebar_fill_color": "E0E1F5",
+    "profile_background_tile": true,
+    "default_profile_image": false,
+    "translator_type": "none",
+    "description": "Indoor enthusiast. Co-founder of https://t.co/P7MEYP7MjF and https://t.co/rlk2RG61MA. Disclaimer: I have no idea what I'm talking about.",
+    "is_translator": false,
+    "utc_offset": -25200,
+    "statuses_count": 58692,
+    "id": 5637652,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623412/hunt-wumpus-bg.png",
+    "profile_sidebar_border_color": "E0E1F5",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/632821853627678720/zPKK7jql_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/5637652/1398207303",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "display_url": "blog.codinghorror.com",
+            "url": "http://t.co/rM9N1bQpLr",
+            "indices": [
+              0,
+              22
+            ],
+            "expanded_url": "http://blog.codinghorror.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "display_url": "stackoverflow.com",
+            "url": "https://t.co/P7MEYP7MjF",
+            "indices": [
+              33,
+              56
+            ],
+            "expanded_url": "http://stackoverflow.com"
+          },
+          {
+            "display_url": "discourse.org",
+            "url": "https://t.co/rlk2RG61MA",
+            "indices": [
+              61,
+              84
+            ],
+            "expanded_url": "http://discourse.org"
+          }
+        ]
+      }
+    },
+    "time_zone": "Arizona",
+    "lang": "en",
+    "default_profile": false,
+    "created_at": "Sun Apr 29 20:50:37 +0000 2007",
+    "name": "Jeff Atwood",
+    "geo_enabled": false,
+    "profile_link_color": "282D58",
+    "location": "Bay Area, CA",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/632821853627678720/zPKK7jql_normal.png",
+    "protected": false,
+    "has_extended_profile": false,
+    "followers_count": 237996,
+    "is_translation_enabled": false,
+    "url": "http://t.co/rM9N1bQpLr",
+    "notifications": false,
+    "listed_count": 9472,
+    "profile_use_background_image": true,
+    "following": true,
+    "verified": true,
+    "contributors_enabled": false,
+    "screen_name": "codinghorror",
+    "id_str": "5637652",
+    "friends_count": 186,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623412/hunt-wumpus-bg.png",
+    "favourites_count": 17012,
+    "profile_text_color": "383A48"
+  },
+  "truncated": false,
+  "coordinates": null,
+  "retweet_count": 515,
+  "possibly_sensitive_appealable": false
+}{
+  "in_reply_to_status_id_str": null,
+  "quoted_status_id": 971897100140101633,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "id": 972454634718576640,
+  "geo": null,
+  "quoted_status_id_str": "971897100140101633",
+  "lang": "en",
+  "entities": {
+    "urls": [
+      {
+        "display_url": "twitter.com/NBCNightlyNews\u2026",
+        "url": "https://t.co/oCye83851J",
+        "indices": [
+          88,
+          111
+        ],
+        "expanded_url": "https://twitter.com/NBCNightlyNews/status/971897100140101633"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 47509268,
+        "indices": [
+          3,
+          14
+        ],
+        "screen_name": "sarahjeong",
+        "id_str": "47509268",
+        "name": "sarah jeong \ud83d\udc31"
+      }
+    ],
+    "hashtags": [],
+    "symbols": []
+  },
+  "is_quote_status": true,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted_status": {
+    "in_reply_to_status_id_str": null,
+    "quoted_status_id": 971897100140101633,
+    "possibly_sensitive": false,
+    "favorite_count": 368,
+    "id": 972240846924886016,
+    "geo": null,
+    "quoted_status_id_str": "971897100140101633",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "possibly_sensitive": false,
+      "id": 971897100140101633,
+      "geo": null,
+      "lang": "en",
+      "favorite_count": 635,
+      "is_quote_status": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+      "place": null,
+      "created_at": "Thu Mar 08 23:55:00 +0000 2018",
+      "id_str": "971897100140101633",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "text": "Two Emperor penguins took a selfie when they stumbled on Australian Antarctic expeditioner Eddie Gault\u2019s camera.\u2026 https://t.co/neDCfEzljK",
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "contributors": null,
+      "in_reply_to_user_id_str": null,
+      "retweeted": false,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/9\u2026",
+            "url": "https://t.co/neDCfEzljK",
+            "indices": [
+              114,
+              137
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/971897100140101633"
+          }
+        ],
+        "user_mentions": [],
+        "hashtags": [],
+        "symbols": []
+      },
+      "user": {
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_background_tile": false,
+        "default_profile_image": false,
+        "translator_type": "none",
+        "description": "Breaking news, in-depth reporting, context on news from around the world | Full episodes: https://t.co/xfi4YbHh0x | Newsletter: https://t.co/zvr3Xe2le0",
+        "is_translator": false,
+        "utc_offset": -18000,
+        "statuses_count": 96836,
+        "id": 8839632,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462444957/NN_BG.jpg",
+        "profile_sidebar_border_color": "DADADA",
+        "follow_request_sent": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/878311894418849792/jlk1k6MF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8839632/1519136518",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "NBCNightlyNews.com",
+                "url": "https://t.co/siVgviWIA1",
+                "indices": [
+                  0,
+                  23
+                ],
+                "expanded_url": "http://NBCNightlyNews.com"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "display_url": "nbcnightlynews.com",
+                "url": "https://t.co/xfi4YbHh0x",
+                "indices": [
+                  90,
+                  113
+                ],
+                "expanded_url": "http://www.nbcnightlynews.com"
+              },
+              {
+                "display_url": "nbcnews.to/2rLj3BJ",
+                "url": "https://t.co/zvr3Xe2le0",
+                "indices": [
+                  128,
+                  151
+                ],
+                "expanded_url": "http://nbcnews.to/2rLj3BJ"
+              }
+            ]
+          }
+        },
+        "time_zone": "Eastern Time (US & Canada)",
+        "lang": "en",
+        "default_profile": false,
+        "created_at": "Wed Sep 12 19:19:22 +0000 2007",
+        "name": "NBC Nightly News with Lester Holt",
+        "geo_enabled": true,
+        "profile_link_color": "124578",
+        "location": "New York",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/878311894418849792/jlk1k6MF_normal.jpg",
+        "protected": false,
+        "has_extended_profile": false,
+        "followers_count": 953466,
+        "is_translation_enabled": false,
+        "url": "https://t.co/siVgviWIA1",
+        "notifications": false,
+        "listed_count": 10720,
+        "profile_use_background_image": true,
+        "following": false,
+        "verified": true,
+        "contributors_enabled": false,
+        "screen_name": "NBCNightlyNews",
+        "id_str": "8839632",
+        "friends_count": 456,
+        "profile_background_color": "000000",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462444957/NN_BG.jpg",
+        "favourites_count": 1455,
+        "profile_text_color": "000000"
+      },
+      "truncated": true,
+      "favorited": false,
+      "retweet_count": 244,
+      "possibly_sensitive_appealable": false
+    },
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/NBCNightlyNews\u2026",
+          "url": "https://t.co/oCye83851J",
+          "indices": [
+            72,
+            95
+          ],
+          "expanded_url": "https://twitter.com/NBCNightlyNews/status/971897100140101633"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": [],
+      "symbols": []
+    },
+    "lang": "en",
+    "is_quote_status": true,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "created_at": "Fri Mar 09 22:40:55 +0000 2018",
+    "id_str": "972240846924886016",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "text": "I WOULD VERY MUCH LIKE ANIMALS TO STOP TAKING SELFIES FOR MY OWN SANITY https://t.co/oCye83851J",
+    "in_reply_to_user_id": null,
+    "favorited": false,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "retweeted": false,
+    "user": {
+      "profile_sidebar_fill_color": "200709",
+      "profile_background_tile": true,
+      "default_profile_image": false,
+      "translator_type": "regular",
+      "description": "senior writer @verge. law and technology and stuff. sarah.jeong@ theverge .com | ask for Signal number | PGP: https://t.co/VFHtzPsGIK",
+      "is_translator": false,
+      "utc_offset": -28800,
+      "statuses_count": 104733,
+      "id": 47509268,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/525540657222262784/9kgKWUOF.png",
+      "profile_sidebar_border_color": "000000",
+      "follow_request_sent": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/960562655680344064/BbyaCGZh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/47509268/1428289698",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "display_url": "sarahjeong.net/about/",
+              "url": "https://t.co/DtTjRYbVtT",
+              "indices": [
+                0,
+                23
+              ],
+              "expanded_url": "http://sarahjeong.net/about/"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "display_url": "keybase.io/sarahjeong",
+              "url": "https://t.co/VFHtzPsGIK",
+              "indices": [
+                110,
+                133
+              ],
+              "expanded_url": "http://keybase.io/sarahjeong"
+            }
+          ]
+        }
+      },
+      "time_zone": "Pacific Time (US & Canada)",
+      "lang": "en",
+      "default_profile": false,
+      "created_at": "Tue Jun 16 01:50:52 +0000 2009",
+      "name": "sarah jeong \ud83d\udc31",
+      "geo_enabled": false,
+      "profile_link_color": "9266CC",
+      "location": "Portland, OR",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/960562655680344064/BbyaCGZh_normal.jpg",
+      "protected": false,
+      "has_extended_profile": false,
+      "followers_count": 58807,
+      "is_translation_enabled": false,
+      "url": "https://t.co/DtTjRYbVtT",
+      "notifications": false,
+      "listed_count": 1640,
+      "profile_use_background_image": true,
+      "following": false,
+      "verified": false,
+      "contributors_enabled": false,
+      "screen_name": "sarahjeong",
+      "id_str": "47509268",
+      "friends_count": 1389,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/525540657222262784/9kgKWUOF.png",
+      "favourites_count": 90010,
+      "profile_text_color": "6A4836"
+    },
+    "truncated": false,
+    "coordinates": null,
+    "retweet_count": 33,
+    "possibly_sensitive_appealable": false
+  },
+  "place": null,
+  "created_at": "Sat Mar 10 12:50:26 +0000 2018",
+  "id_str": "972454634718576640",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "text": "RT @sarahjeong: I WOULD VERY MUCH LIKE ANIMALS TO STOP TAKING SELFIES FOR MY OWN SANITY https://t.co/oCye83851J",
+  "in_reply_to_user_id": null,
+  "favorited": false,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "user": {
+    "profile_sidebar_fill_color": "252429",
+    "profile_background_tile": false,
+    "default_profile_image": false,
+    "translator_type": "none",
+    "description": "Googler, Open Source Dude, Dad",
+    "is_translator": false,
+    "utc_offset": -28800,
+    "statuses_count": 11552,
+    "id": 44423,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_sidebar_border_color": "181A1E",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44423/1365443403",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "display_url": "dibona.com",
+            "url": "http://t.co/Qve3ArdKN0",
+            "indices": [
+              0,
+              22
+            ],
+            "expanded_url": "http://dibona.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "time_zone": "Pacific Time (US & Canada)",
+    "lang": "en",
+    "default_profile": false,
+    "created_at": "Wed Dec 06 04:18:07 +0000 2006",
+    "name": "Chris DiBona",
+    "geo_enabled": true,
+    "profile_link_color": "2FC2EF",
+    "location": "Los Altos, Ca",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "protected": false,
+    "has_extended_profile": true,
+    "followers_count": 38365,
+    "is_translation_enabled": false,
+    "url": "http://t.co/Qve3ArdKN0",
+    "notifications": false,
+    "listed_count": 1763,
+    "profile_use_background_image": true,
+    "following": true,
+    "verified": false,
+    "contributors_enabled": false,
+    "screen_name": "cdibona",
+    "id_str": "44423",
+    "friends_count": 1344,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "favourites_count": 5818,
+    "profile_text_color": "666666"
+  },
+  "truncated": false,
+  "coordinates": null,
+  "retweet_count": 33,
+  "possibly_sensitive_appealable": false
+}{
+  "in_reply_to_status_id_str": null,
+  "id": 972454513159237634,
+  "geo": null,
+  "lang": "en",
+  "favorite_count": 0,
+  "is_quote_status": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted_status": {
+    "in_reply_to_status_id_str": null,
+    "possibly_sensitive": false,
+    "id": 972341120679141376,
+    "geo": null,
+    "lang": "en",
+    "favorite_count": 20,
+    "is_quote_status": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "created_at": "Sat Mar 10 05:19:23 +0000 2018",
+    "id_str": "972341120679141376",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "text": "Congrats @realalecberg for the great reviews. We read the pilot for Barry and haven't stopped thinking about it...y\u2026 https://t.co/oVk7400Ews",
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "retweeted": false,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "url": "https://t.co/oVk7400Ews",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/972341120679141376"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 15923056,
+          "indices": [
+            9,
+            22
+          ],
+          "screen_name": "realalecberg",
+          "id_str": "15923056",
+          "name": "Alec Berg"
+        }
+      ],
+      "hashtags": [],
+      "symbols": []
+    },
+    "user": {
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_background_tile": false,
+      "default_profile_image": false,
+      "translator_type": "none",
+      "description": "Screenwriters of National Treasure 1 & 2, Bad Boys 2 and a few other movies you may have seen & liked or hated. Also sometimes Screenwriting Professors at UCLA.",
+      "is_translator": false,
+      "utc_offset": null,
+      "statuses_count": 10122,
+      "id": 388627030,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000155699565/RyKcAp6o.jpeg",
+      "profile_sidebar_border_color": "FFFFFF",
+      "follow_request_sent": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/754179629728968705/jYBMZjyt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/388627030/1504647326",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/dottie.hudson.7",
+              "url": "https://t.co/lQ5Ooi8N6Y",
+              "indices": [
+                0,
+                23
+              ],
+              "expanded_url": "https://www.facebook.com/dottie.hudson.7"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "time_zone": null,
+      "lang": "en",
+      "default_profile": false,
+      "created_at": "Tue Oct 11 02:19:49 +0000 2011",
+      "name": "The Wibberleys",
+      "geo_enabled": false,
+      "profile_link_color": "0084B4",
+      "location": "The South Bay",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/754179629728968705/jYBMZjyt_normal.jpg",
+      "protected": false,
+      "has_extended_profile": true,
+      "followers_count": 3003,
+      "is_translation_enabled": false,
+      "url": "https://t.co/lQ5Ooi8N6Y",
+      "notifications": false,
+      "listed_count": 133,
+      "profile_use_background_image": true,
+      "following": false,
+      "verified": true,
+      "contributors_enabled": false,
+      "screen_name": "dottiehudson",
+      "id_str": "388627030",
+      "friends_count": 670,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000155699565/RyKcAp6o.jpeg",
+      "favourites_count": 13006,
+      "profile_text_color": "333333"
+    },
+    "truncated": true,
+    "favorited": false,
+    "retweet_count": 3,
+    "possibly_sensitive_appealable": false
+  },
+  "place": null,
+  "created_at": "Sat Mar 10 12:49:57 +0000 2018",
+  "id_str": "972454513159237634",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "text": "RT @dottiehudson: Congrats @realalecberg for the great reviews. We read the pilot for Barry and haven't stopped thinking about it...you're\u2026",
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "favorited": false,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "user": {
+    "profile_sidebar_fill_color": "252429",
+    "profile_background_tile": false,
+    "default_profile_image": false,
+    "translator_type": "none",
+    "description": "Googler, Open Source Dude, Dad",
+    "is_translator": false,
+    "utc_offset": -28800,
+    "statuses_count": 11552,
+    "id": 44423,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_sidebar_border_color": "181A1E",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44423/1365443403",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "display_url": "dibona.com",
+            "url": "http://t.co/Qve3ArdKN0",
+            "indices": [
+              0,
+              22
+            ],
+            "expanded_url": "http://dibona.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "time_zone": "Pacific Time (US & Canada)",
+    "lang": "en",
+    "default_profile": false,
+    "created_at": "Wed Dec 06 04:18:07 +0000 2006",
+    "name": "Chris DiBona",
+    "geo_enabled": true,
+    "profile_link_color": "2FC2EF",
+    "location": "Los Altos, Ca",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/859437530722316288/lxpe6Na2_normal.jpg",
+    "protected": false,
+    "has_extended_profile": true,
+    "followers_count": 38365,
+    "is_translation_enabled": false,
+    "url": "http://t.co/Qve3ArdKN0",
+    "notifications": false,
+    "listed_count": 1763,
+    "profile_use_background_image": true,
+    "following": true,
+    "verified": false,
+    "contributors_enabled": false,
+    "screen_name": "cdibona",
+    "id_str": "44423",
+    "friends_count": 1344,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "favourites_count": 5818,
+    "profile_text_color": "666666"
+  },
+  "truncated": false,
+  "entities": {
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 388627030,
+        "indices": [
+          3,
+          16
+        ],
+        "screen_name": "dottiehudson",
+        "id_str": "388627030",
+        "name": "The Wibberleys"
+      },
+      {
+        "id": 15923056,
+        "indices": [
+          27,
+          40
+        ],
+        "screen_name": "realalecberg",
+        "id_str": "15923056",
+        "name": "Alec Berg"
+      }
+    ],
+    "hashtags": [],
+    "symbols": []
+  },
+  "retweet_count": 3
+}{
+  "in_reply_to_status_id_str": null,
+  "id": 972446377438601217,
+  "geo": null,
+  "lang": "en",
+  "favorite_count": 0,
+  "is_quote_status": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted_status": {
+    "in_reply_to_status_id_str": "972366968752869376",
+    "id": 972369295379456000,
+    "geo": null,
+    "lang": "en",
+    "favorite_count": 16,
+    "is_quote_status": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "place": null,
+    "created_at": "Sat Mar 10 07:11:20 +0000 2018",
+    "id_str": "972369295379456000",
+    "in_reply_to_screen_name": "holland_tom",
+    "in_reply_to_status_id": 972366968752869376,
+    "text": "@holland_tom I find it oddly satisfying that a) it's just a reference to Cabinet Office Briefing Room A, and b) tha\u2026 https://t.co/KLzTBfBlt8",
+    "in_reply_to_user_id": 239885144,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_user_id_str": "239885144",
+    "retweeted": false,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "url": "https://t.co/KLzTBfBlt8",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/972369295379456000"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 239885144,
+          "indices": [
+            0,
+            12
+          ],
+          "screen_name": "holland_tom",
+          "id_str": "239885144",
+          "name": "Tom Holland"
+        }
+      ],
+      "hashtags": [],
+      "symbols": []
+    },
+    "user": {
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_background_tile": true,
+      "default_profile_image": false,
+      "translator_type": "none",
+      "description": "Leader. Visionary. Idiot.",
+      "is_translator": false,
+      "utc_offset": null,
+      "statuses_count": 813,
+      "id": 41792755,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/66938869/Heidenreich1.jpg",
+      "profile_sidebar_border_color": "DFDFDF",
+      "follow_request_sent": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/921102547456229378/VhflHVhs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/41792755/1508437529",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "time_zone": null,
+      "lang": "en",
+      "default_profile": false,
+      "created_at": "Fri May 22 11:14:20 +0000 2009",
+      "name": "Dara O'Reilly",
+      "geo_enabled": false,
+      "profile_link_color": "ABB8C2",
+      "location": "FROM INSIDE THE HOUSE!",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/921102547456229378/VhflHVhs_normal.jpg",
+      "protected": false,
+      "has_extended_profile": false,
+      "followers_count": 108,
+      "is_translation_enabled": false,
+      "url": null,
+      "notifications": false,
+      "listed_count": 8,
+      "profile_use_background_image": true,
+      "following": false,
+      "verified": false,
+      "contributors_enabled": false,
+      "screen_name": "Dara_bhur_gCara",
+      "id_str": "41792755",
+      "friends_count": 646,
+      "profile_background_color": "000000",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/66938869/Heidenreich1.jpg",
+      "favourites_count": 65,
+      "profile_text_color": "333333"
+    },
+    "truncated": true,
+    "favorited": false,
+    "retweet_count": 1
+  },
+  "place": null,
+  "created_at": "Sat Mar 10 12:17:38 +0000 2018",
+  "id_str": "972446377438601217",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "text": "RT @Dara_bhur_gCara: @holland_tom I find it oddly satisfying that a) it's just a reference to Cabinet Office Briefing Room A, and b) that t\u2026",
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "favorited": false,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "user": {
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_background_tile": false,
+    "default_profile_image": false,
+    "translator_type": "none",
+    "description": "\ud83d\udcd6Reading your thoughts. \u270d\ufe0fIf you write them first. \ud83d\udd78https://t.co/LD3HeubE2z Want to hire me to consult, write or speak? \ud83d\udce9dm me",
+    "is_translator": false,
+    "utc_offset": -28800,
+    "statuses_count": 110902,
+    "id": 57203,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_border_color": "5ED4DC",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826300294136868864/bB22s4pc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/57203/1358547253",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "display_url": "kevinmarks.com",
+            "url": "https://t.co/KzRfFUERTT",
+            "indices": [
+              0,
+              23
+            ],
+            "expanded_url": "http://www.kevinmarks.com"
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "display_url": "known.kevinmarks.com",
+            "url": "https://t.co/LD3HeubE2z",
+            "indices": [
+              52,
+              75
+            ],
+            "expanded_url": "http://known.kevinmarks.com"
+          }
+        ]
+      }
+    },
+    "time_zone": "Pacific Time (US & Canada)",
+    "lang": "en",
+    "default_profile": false,
+    "created_at": "Mon Dec 11 11:43:36 +0000 2006",
+    "name": "Kevin Marks",
+    "geo_enabled": true,
+    "profile_link_color": "007494",
+    "location": "Nunthorpe, England",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/826300294136868864/bB22s4pc_normal.jpg",
+    "protected": false,
+    "has_extended_profile": true,
+    "followers_count": 27048,
+    "is_translation_enabled": false,
+    "url": "https://t.co/KzRfFUERTT",
+    "notifications": false,
+    "listed_count": 2069,
+    "profile_use_background_image": false,
+    "following": true,
+    "verified": false,
+    "contributors_enabled": false,
+    "screen_name": "kevinmarks",
+    "id_str": "57203",
+    "friends_count": 9669,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "favourites_count": 3618,
+    "profile_text_color": "3C3940"
+  },
+  "truncated": false,
+  "entities": {
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 41792755,
+        "indices": [
+          3,
+          19
+        ],
+        "screen_name": "Dara_bhur_gCara",
+        "id_str": "41792755",
+        "name": "Dara O'Reilly"
+      },
+      {
+        "id": 239885144,
+        "indices": [
+          21,
+          33
+        ],
+        "screen_name": "holland_tom",
+        "id_str": "239885144",
+        "name": "Tom Holland"
+      }
+    ],
+    "hashtags": [],
+    "symbols": []
+  },
+  "retweet_count": 1
+}
